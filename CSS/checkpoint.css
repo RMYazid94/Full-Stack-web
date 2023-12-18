@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+nav li , ul{
+margin-right : 20px;
+display: inline;
+}
+
+nav li {
+list-style: none;
+}
+
+header{
+    background-color: black;
+    text-align: center;
+    color:white
+}
+nav a{
+    color:white;
+    text-decoration: none;
+}
+nav {
+padding: 10px;
+}
+
+.section1 {
+background-color: rgb(235, 233, 233);
+}
+
+footer{
+    background-color: black;
+    color: white;
+}
+
+section{
+    padding: 20px;
+}
+h2 ,h4 {
+    padding: 10px;
+}
+p{
+    padding: 5px;
+}
